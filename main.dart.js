@@ -57065,7 +57065,7 @@ A.Lo.prototype={}
 A.Lp.prototype={}
 A.B7.prototype={
 O(a){var s=null,r=t.F
-return A.a6U(A.mw(s,new A.y9(B.i,5,A.a98(A.a([A.u2(A.E3(B.cz,A.a([A.aiB(0,new A.qK(A.aj3(s,s,new A.pp("Assets/Schermafbeelding_2022-08-16_om_13.58.45.png",s,s)),B.uP,s)),B.Ca],r),B.dG),150,s),A.u2(new A.y0(B.Ba,A.a([A.ab0("A message from the organizing committee",s,s,A.ux(s,s,B.i,s,s,s,s,s,s,s,s,20,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.Eh(new A.SD(),s,s,s,s,B.B,s,!1,s,B.HK,s)],r),s),60,s)],r),B.f6),s),s,s,s,220,s,new A.b4(20,0,20,0),s))}}
+return A.a6U(A.mw(s,new A.y9(B.i,5,A.a98(A.a([A.u2(A.E3(B.cz,A.a([A.aiB(0,new A.qK(A.aj3(s,s,new A.pp("Assets/Schermafbeelding_2022-08-16_om_13.58.45.png",s,s)),B.uP,s)),B.Ca],r),B.dG),150,s),A.u2(new A.y0(B.Ba,A.a([A.ab0("A message from the organizing committee",s,s,A.ux(s,s,B.k,s,s,s,s,s,s,s,s,20,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.Eh(new A.SD(),s,s,s,s,B.B,s,!1,s,B.HK,s)],r),s),60,s)],r),B.f6),s),s,s,s,220,s,new A.b4(20,0,20,0),s))}}
 A.SD.prototype={
 $0(){},
 $S:0}
