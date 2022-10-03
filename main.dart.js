@@ -61641,7 +61641,7 @@ return A.ay(A.b1(s,s,s,A.a4(a,s,s,s,s,s)),s,10)},
 $S:31}
 A.nn.prototype={
 D(a){var s=null
-return A.c7(A.cb(s,B.h,s,B.f,s),A.er(A.bG(A.a([new A.bl(B.I,s,s,A.G(s,B.L6,s,s,s,s,s,B.db,s),s),A.G(s,B.d8,s,s,s,s,s,B.cf,s),A.bv("Assets/DSC02860.JPG",s),A.G(s,A.a4("Thanks for downloading the LmunA App!Have you already taken a look around in the app? On the homescreen you can view stories, read the blog and take a look at today\u2019s pictures! Did you know that you can also submit your own story? Try it out in the coming weeks! The app offers more than just that. Did you already take a look at the debate page and the map? Have fun looking around in the LmunA App!P.S. Don\u2019t forget to share this app with others!The LmunA App Development Team",s,s,s,s,s),s,s,s,s,s,B.yB,s)],t.p),B.u,B.q),s,B.J,s,s,B.p),s)}}
+return A.c7(A.cb(s,B.h,s,B.f,s),A.er(A.bG(A.a([A.bv("Assets/DSC02860.JPG",s),new A.bl(B.I,s,s,A.G(s,B.L6,s,s,s,s,s,B.db,s),s),A.G(s,B.d8,s,s,s,s,s,B.cf,s),A.G(s,A.a4("Thanks for downloading the LmunA App!Have you already taken a look around in the app? On the homescreen you can view stories, read the blog and take a look at today\u2019s pictures! Did you know that you can also submit your own story? Try it out in the coming weeks! The app offers more than just that. Did you already take a look at the debate page and the map? Have fun looking around in the LmunA App!P.S. Don\u2019t forget to share this app with others!The LmunA App Development Team",s,s,s,s,s),s,s,s,s,s,B.yB,s)],t.p),B.u,B.q),s,B.J,s,s,B.p),s)}}
 A.Dw.prototype={
 D(a){return new A.u2(B.E3,"LmunA",A.abL(null,B.bL,null),null)}}
 A.uh.prototype={
