@@ -1,32 +1,32 @@
 {
-    "name": "LmunA",
-    "short_name": "LmunA",
+    "name": "lmuna",
+    "short_name": "lmuna",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The LmunA PWA",
+    "description": "The LmunA App for Android",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.jpg",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.jpg",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-maskable-192.jpg",
+            "src": "icons/Icon-maskable-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/Icon-maskable-512.jpg",
+            "src": "icons/Icon-maskable-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
