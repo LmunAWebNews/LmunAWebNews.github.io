@@ -1,11 +1,11 @@
 {
-    "name": "LmunA",
-    "short_name": "LmunA",
+    "name": "lmuna",
+    "short_name": "lmuna",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The LmunA Progressive Web App",
+    "description": "The LmunA App for Android",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
